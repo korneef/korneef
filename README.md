@@ -1,3 +1,4 @@
+
 ##### 👋 Привет! Меня зовут Валентин и я являюсь Frontend-разработчиком.
 Мой основой стэк это - JavaScript, TypeScript, React, Redux  
 Так же я знаю и умею - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest, ESLint  
@@ -33,3 +34,19 @@
 `TypeScript` `React` `RTK` `RTK Query` `MIU` `SCSS` `CI/CD` `Google Firebase`  
   
 Исходный код: https://github.com/korneef/portfolio-admin  
+
+# Сертификаты:
+Сертификат об окончании курса Frontend-разработчика: https://drive.google.com/file/d/1gDqqE2cqtCvH5RT15Ps_NlsNT_ZZP1VY/  
+  
+React: https://drive.google.com/file/d/1zgVs8zYrE3tR-XiXhGzllJeK4iyee6nX/  
+  
+Advanced browser JS: https://drive.google.com/file/d/1jpCzJPxEBjeFiTSorF47rmeBlqYPEWUA/  
+Base browser JS: https://drive.google.com/file/d/1WKExoQgtL2D2IHWrcWhOhaEVTsefGwio/  
+Advanded JS: https://drive.google.com/file/d/1PvjSEvCHnA0iBruV9N10nj_fNgz3ct8o/  
+Base JS: https://drive.google.com/file/d/1WjuE1I4x5Cz_t2EQhNM04q72P5TAkbIq/  
+Base development: https://drive.google.com/file/d/1x0vZIfY68abwBl23VjMIMnBDCre7oR4g/  
+GIT: https://drive.google.com/file/d/1OhVzkdzv3rGv9jJ1aqyLCvYCNAKFuAst/  
+HTML Adaptive: https://drive.google.com/file/d/11SXbmfv8LfBpFONVWa16aKYYmRt-y7zl/  
+HTML: https://drive.google.com/file/d/1rEf3vwuQr1FllaAwfhAxHMiShgqDd-Eb/  
+
+
