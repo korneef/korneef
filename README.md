@@ -2,8 +2,13 @@
 ##### 👋 Привет! Меня зовут Валентин и я являюсь Frontend-разработчиком.
 Мой основой стэк это - JavaScript, TypeScript, React, Redux  
 Так же я знаю и умею - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest, ESLint  
-Мое CV: https://drive.google.com/file/d/1OutTKmQZmjbplX4vewvHVjcZl_FMAyp2/  
-Мой телеграмм: [htttps://t.me/spaceaper](https://t.me/spaceaper)  
+### Контакты  
+[Ссылка на резюме](https://drive.google.com/file/d/1tkABHNH8-nNkv7bEbmzNmpD0ccYWF6HQ/view)  
+v.korneef@gmail.com  
+[Telegram](https://t.me/spaceaper)  
+[LinkedIn](https://www.linkedin.com/in/korneev-v/)  
++79675554158  
+
 
 # Мои проекты:
 ### Сайт для заказа ЖД билетов 
