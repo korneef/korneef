@@ -3,7 +3,7 @@
 Мой основой стэк это - JavaScript, TypeScript, React, Redux  
 Так же я знаю и умею - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest, ESLint  
 ### Контакты  
-[Ссылка на резюме](https://drive.google.com/file/d/1tkABHNH8-nNkv7bEbmzNmpD0ccYWF6HQ/view)  
+### [Ссылка на резюме](https://drive.google.com/file/d/1tkABHNH8-nNkv7bEbmzNmpD0ccYWF6HQ/view)  
 v.korneef@gmail.com  
 [Telegram](https://t.me/spaceaper)  
 [LinkedIn](https://www.linkedin.com/in/korneev-v/)  
