@@ -2,7 +2,7 @@
 My main stack is - JavaScript, TypeScript, React, Redux  
 I also know and can work with - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest, ESLint  
 ### Contacts  
-### [CV link](https://drive.google.com/file/d/1tkABHNH8-nNkv7bEbmzNmpD0ccYWF6HQ/view)  
+### [CV link](https://drive.google.com/file/d/1IptV8QirN-sxAPRQbV4cPlr3APCptctn/view)  
 v.korneef@gmail.com  
 [Telegram](https://t.me/spaceaper)  
 [LinkedIn](https://www.linkedin.com/in/korneev-v/)  
