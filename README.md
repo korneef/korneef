@@ -6,7 +6,7 @@ I also know and can work with - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest,
 v.korneef@gmail.com  
 [Telegram](https://t.me/spaceaper)  
 [LinkedIn](https://www.linkedin.com/in/korneev-v/)  
-+79675554158  
++996228911201
 
 
 # My projects:
