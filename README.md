@@ -1,6 +1,7 @@
 #### 👋 Hello! My name is Valentin, and I am a Frontend developer.
-My main stack is - JavaScript, TypeScript, React, Redux  
-I also know and can work with - HTML, CSS, SCSS, CI/CD, Webpack, MIU, GIT, Jest, ESLint  
+I’m an experienced front-end developer with a focus on creating user-friendly and efficient web applications using modern front-end technologies. 
+
+If you have interesting projects to work on, I’d be happy to contribute, whether on a commercial or non-commercial basis.
 
 ### Contacts  
 - [CV link](https://drive.google.com/file/d/1VGtzjHFWmLcd_Kaj6FHVrbiDwld19_Wu/view)  
