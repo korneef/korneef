@@ -1,5 +1,5 @@
-#### 👋 Hello! My name is Valentin, and I am a Frontend developer.
-I’m an experienced front-end developer with a focus on creating user-friendly and efficient web applications using modern front-end technologies. 
+#### 👋 Hello! My name is Valentin,
+and I’m an experienced front-end developer with a focus on creating user-friendly and efficient web applications using modern front-end technologies. 
 
 If you have interesting projects to work on, I’d be happy to contribute, whether on a commercial or non-commercial basis.
 
