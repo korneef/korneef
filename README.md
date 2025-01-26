@@ -4,7 +4,7 @@ and I’m an experienced front-end developer with a focus on creating user-frien
 If you have interesting projects to work on, I’d be happy to contribute, whether on a commercial or non-commercial basis.
 
 ### Contacts  
-- [CV link](https://drive.google.com/file/d/1VGtzjHFWmLcd_Kaj6FHVrbiDwld19_Wu/view)  
+- [CV link](https://drive.google.com/file/d/1D6F-eJgp9m5oJ7cGSdAXqwZEUsNtim2W/view)  
 - [Telegram](https://t.me/spaceaper)  
 - [LinkedIn](https://www.linkedin.com/in/korneev-v/)  
 
